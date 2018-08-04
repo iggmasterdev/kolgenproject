@@ -1,0 +1,20 @@
+***Work Plan for KolGene Automation Project***
+
+1. Prepare class for login to test environment:
+   1.1 Go to test domain: https://test.kolgene.com/
+   1.2 Enter login details: dataart/6TsEW4JNKs2V9WyJ
+
+2. Sanity for main page:
+   1. GUI: Verification of main object on each pages.
+   2. Functional: Verification of button on main page:
+      2.1 "Get Started for Free" button
+         2.1.1 On first page
+         2.1.2 On last page
+      2.2 "Sign in" button
+      2.3 Page scroller
+      2.4 Phone links
+      2.5 E-mail link
+
+3. ATC-1: Register 2 new Hospital clinicians in one (Same) hospital through "Sign In"
+4. ATC-2: Register another Clinician through "Get started for free"
+
