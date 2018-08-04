@@ -2,7 +2,6 @@
 
 1. Prepare class for login to test environment:
    1.1 Go to test domain: https://test.kolgene.com/
-   1.2 Enter login details: dataart/6TsEW4JNKs2V9WyJ
 
 2. Sanity for main page:
    1. GUI: Verification of main object on each pages.
